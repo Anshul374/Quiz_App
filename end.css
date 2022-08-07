@@ -1,0 +1,31 @@
+.endScore{
+    text-align: center;
+    color:#42C2FF;
+    font-size: 1.7rem;
+}
+#inputVal{
+    width:11rem;
+    padding:0.8rem 0;
+    margin-bottom: 2vh;
+    background-color:white;
+    border: none;
+    text-align: center;
+    box-shadow: 0 0.1rem 1.4rem 0 rgba(86,185,235,0.5);
+}
+#inputVal::placeholder{
+    color:#aaa;
+}
+#saveBtn{
+    text-decoration:none;
+    text-align: center;
+    width:11rem;
+    padding:0.8rem 0;
+    margin-bottom: 2vh;
+    background-color:white;
+    color:#42C2FF;
+    border: 2px solid #42C2FF;
+}
+
+.saveBtnBorder{
+    border:4px solid #42C2FF;
+}
